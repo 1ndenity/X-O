@@ -70,12 +70,10 @@ Rozszerzona wersja z nowoczesnym designem i dodatkowymi funkcjami.
 ## 📸 Zrzuty ekranu
 
 ### Wersja Simple
-![Simple Version](screenshots/simple.png)
+![Simple Version](https://i.imgur.com/ooyblvy.png)
 
 ### Wersja Modern
-![Modern Version - Dark Theme](screenshots/modern-dark.png)
-![Modern Version - Light Theme](screenshots/modern-light.png)
-![Modern Version - Game Over](https://i.imgur.com/H9JdNKl.png)
+![Modern Version - Dark Theme](https://i.imgur.com/q9e1KlL.png)
 
 ## 🎯 Porównanie wersji
 
