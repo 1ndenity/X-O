@@ -75,7 +75,7 @@ Rozszerzona wersja z nowoczesnym designem i dodatkowymi funkcjami.
 ### Wersja Modern
 ![Modern Version - Dark Theme](screenshots/modern-dark.png)
 ![Modern Version - Light Theme](screenshots/modern-light.png)
-![Modern Version - Game Over](https://i.imgur.com/9pHjdQ7.png)
+![Modern Version - Game Over](https://i.imgur.com/H9JdNKl.png)
 
 ## 🎯 Porównanie wersji
 
